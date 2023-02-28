@@ -27,7 +27,6 @@ In the following figure, the red dots indicate Primary Keys, the green dots refe
 - However, each event has one or none employee.
 - An event references to one room with its own resources and the rooms belong to one building.
 
-![Alt text9](figures/ASVZ.png)
 ## Describes the tables and columns.
 ![Alt text](figures/table.png)
 
