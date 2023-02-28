@@ -28,10 +28,9 @@ In the following figure, the red dots indicate Primary Keys, the green dots refe
 - An event references to one room with its own resources and the rooms belong to one building.
 
 ![Alt text9](figures/ASVZ.png)
-## DESCRIBE THE TABLES AND COLUMNS
+## Describes the tables and columns.
 ![Alt text](figures/table.png)
 
-- Check file "columns_description.pdf" for further information about the specific characterstics of each column. However, it is stated in the following code commands.
-## CREATE TABLES
-- Start from leaves since they have no foreign keys to other tables.
-- Recommendation: Start creating from leaves to main node.
+- Check "columns_description.pdf" for further information about the specific characterstics of each column. However, it is stated in the following code commands.
+## Create tables
+- Recommendation: Start with tables without foreign keys.
